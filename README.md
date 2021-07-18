@@ -1,5 +1,6 @@
 # Subliem3
-Config
+
+Config:
 
 "font_size": 18,
 
